@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" role="img" aria-label="Greenfeed Dominicana">
+  <defs>
+    <style>
+      .mark { fill: #2F6B3B; }
+      .mark-accent { fill: #8FB861; }
+      .word { fill: #1F2A22; font-family: 'Fraunces', 'Merriweather', Georgia, serif; font-weight: 600; font-size: 22px; letter-spacing: -0.015em; }
+      .sub { fill: #2F6B3B; font-family: 'Fraunces', 'Merriweather', Georgia, serif; font-style: italic; font-weight: 400; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; }
+    </style>
+  </defs>
+  <!-- Leaf / grain mark -->
+  <g transform="translate(6,10)">
+    <path class="mark" d="M26 52 C 8 44, 4 22, 26 4 C 44 18, 48 42, 30 52 Z"/>
+    <path class="mark-accent" d="M26 48 C 16 40, 16 24, 28 12" fill="none" stroke="#FBFAF5" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+  <text class="word" x="64" y="36">Greenfeed</text>
+  <text class="sub" x="64" y="54">Dominicana</text>
+</svg>
